@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AdventOfKode2024" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="AdventOfKode2024Kt" />
+    <module name="kotlin-advent-2024.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
